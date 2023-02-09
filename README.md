@@ -1,2 +1,2 @@
-# Disser
-My dissertation
+# Project
+My project
